@@ -1,0 +1,32 @@
+{
+
+    "variants": {
+
+        "normal": [
+
+            { "model": "dirt0" },
+
+            { "model": "dirt0", "y": 90 },
+
+            { "model": "dirt0", "y": 180 },
+
+            { "model": "dirt0", "y": 270 },
+            { "model": "dirt1" },
+
+            { "model": "dirt1", "y": 90 },
+
+            { "model": "dirt1", "y": 180 },
+
+            { "model": "dirt1", "y": 270 },
+            { "model": "dirt2" },
+
+            { "model": "dirt2", "y": 90 },
+
+            { "model": "dirt2", "y": 180 },
+
+            { "model": "dirt2", "y": 270 }
+        ]
+
+    }
+
+}

@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "mycelium0" },
+            { "model": "mycelium1" },
+            { "model": "mycelium1", "y": 90 },
+            { "model": "mycelium1", "y": 180 },
+            { "model": "mycelium1", "y": 270 },
+            { "model": "mycelium2" },
+            { "model": "mycelium2", "y": 90 },
+            { "model": "mycelium2", "y": 180 },
+            { "model": "mycelium2", "y": 270 },
+            { "model": "mycelium3" },
+            { "model": "mycelium3", "y": 90 },
+            { "model": "mycelium3", "y": 180 },
+            { "model": "mycelium3", "y": 270 },
+            { "model": "mycelium4", "y": 90 },
+            { "model": "mycelium4", "y": 180 },
+            { "model": "mycelium4", "y": 270 },
+            { "model": "mycelium4" },
+            { "model": "mycelium5", "y": 90 },
+            { "model": "mycelium5", "y": 180 },
+            { "model": "mycelium5", "y": 270 },
+            { "model": "mycelium5" }
+        ],
+        "snowy=true":  { "model": "grass_snowed" }
+    }
+}

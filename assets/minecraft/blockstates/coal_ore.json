@@ -1,0 +1,13 @@
+{
+
+    "variants": {
+
+        "normal": [
+            { "model": "coal_ore" },
+
+            { "model": "coal_ore" , "x": 180 },
+            { "model": "coal_ore" , "y": 180 }
+        ]
+    }
+
+}

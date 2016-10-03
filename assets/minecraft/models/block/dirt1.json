@@ -1,0 +1,13 @@
+{
+
+    "parent": "block/cube_column",
+
+    "textures": {
+
+        "end": "blocks/dirt_top/1",
+
+        "side": "blocks/dirt/1"
+
+    }
+
+}

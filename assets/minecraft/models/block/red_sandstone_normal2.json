@@ -1,0 +1,15 @@
+{
+
+    "parent": "block/cube_bottom_top",
+
+    "textures": {
+
+        "bottom": "blocks/red_sandstone_bottom/2",
+
+        "top": "blocks/red_sandstone_top/2",
+
+        "side": "blocks/red_sandstone_normal/2"
+
+    }
+
+}

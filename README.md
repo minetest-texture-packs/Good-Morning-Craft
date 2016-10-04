@@ -1,6 +1,9 @@
-# Thanks for choosing Good Morning Craft!
+# Good Morning Craft Open
 > This is version 4.95 and supports Minecraft 14w11b
 > This README will go through how to quickly install GMCraft and a few formalities.
+
+
+<img src="http://i67.tinypic.com/23u7f2q.png" />
 
 ## CONTENTS
 

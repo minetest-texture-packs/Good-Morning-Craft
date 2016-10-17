@@ -51,10 +51,14 @@ This, however, does NOT include the use of water or lava textures, fonts, golden
 3. Create the relevant image and commit. Please respect the style of Good Morning Craft
 4. I will review and then merge into the project
 
+**Make sure you include the psds if you created any in the `/psd` folder**
+
 ### Option 2
 1. Look in the issues list
 2. Create the relevant image file and comment on the post. Please respect the style of Good Morning Craft
 3. I will personally add your work in
+
+**Make sure you include the psds if you created any in the `/psd` folder**
 
 ## Contact
 

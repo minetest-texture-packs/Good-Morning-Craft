@@ -5,7 +5,7 @@
 
 <img src="http://i67.tinypic.com/23u7f2q.png" />
 
-## CONTENTS
+## Contents
 
 1. Intro
 2. Quick install
@@ -60,6 +60,11 @@ This, however, does NOT include the use of water or lava textures, fonts, golden
 
 **Make sure you include the psds if you created any in the `/psd` folder**
 
+## Contributors
+Many thanks to everyone who contributed to this project
+
+[@tobyplowy](https://github.com/tobyplowy)
+
 ## Contact
 
 Contact me via:
@@ -70,6 +75,6 @@ You can contact the original author at any time at:
 
 **Email:** gmcraft@carrotcakestudios.co.uk
 
-**Faceook:** https://www.facebook.com/CarrotCakeStudios/
+**Facebook:** https://www.facebook.com/CarrotCakeStudios/
 
 **Messenger:** http://m.me/CarrotCakeStudios/

@@ -25,7 +25,7 @@ warning I don't know If this is gonna be really helpful but I'm gonna try, so fi
 
 1. Click on `Clone or Download` and `Download ZIP` on the top of this page
 2. Extract the `.zip` file
-3. Go to your Minetest installation directory. E.g. `C:\Program Files (x86)\Minetest`
+3. Go to your Minetest installation directory. E.g. `C:\Games\minetest\textures`
 4. Copy the extracted `.zip` file into the `textures/` folder.
 
 For more information, [click here](https://forum.minetest.net/viewtopic.php?id=1592) for a comprehensive guide.

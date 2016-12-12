@@ -1,5 +1,5 @@
-# Good Morning Craft Open
-> This is version 4.95 and supports Minecraft 14w11b
+# Good Morning Craft Minetest
+> A texture pack for Minetest
 > This README will go through how to quickly install GMCraft and a few formalities.
 
 

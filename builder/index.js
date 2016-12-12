@@ -1,1 +1,0 @@
-var minetest = require("./minetest");

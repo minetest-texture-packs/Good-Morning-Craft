@@ -1,5 +1,6 @@
 # Good Morning Craft Minetest
 > A texture pack for Minetest
+
 > This README will go through how to quickly install GMCraft and a few formalities.
 
 
@@ -20,12 +21,14 @@ I think Good Morning Craft was an amazing resource pack, but unfortunately as st
 
 
 ## Install
+warning I don't know If this is gonna be really helpful but I'm gonna try, so first you will need minetest you can get it here http://www.minetest.net once you have that you download the texture pack then you go to your minetest installation directory for me it's C:\games\minetest then go to the textures folder and put it in there (Note you will have to extract the zip)
 
-1. Open Minecraft and log in.
-2. Select the "Resource Packs" option.
-3. Click "Open Resource Pack Folder" which will open a new window.
-4. Drag this zip folder (not the contents, but the zip file) into this folder.
-5. Select Good Morning Craft in the list of resource packs.
+1. Click on `Clone or Download` and `Download ZIP` on the top of this page
+2. Extract the `.zip` file
+3. Go to your Minetest installation directory. E.g. `C:\Program Files (x86)\Minetest`
+4. Copy the extracted `.zip` file into the `textures/` folder.
+
+For more information, [click here](https://forum.minetest.net/viewtopic.php?id=1592) for a comprehensive guide.
 
 
 ## Copyright, Ownership and Use of Good Morning Craft

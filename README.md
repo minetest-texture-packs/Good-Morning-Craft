@@ -3,6 +3,7 @@
 
 > This README will go through how to quickly install GMCraft and a few formalities.
 
+<img src="https://cloud.githubusercontent.com/assets/16853304/21149003/532869d0-c15a-11e6-8846-923cf1430cf5.png" />
 
 <img src="http://i67.tinypic.com/23u7f2q.png" />
 

@@ -1,2 +1,11 @@
+Additional licensing
+--------------------
 Textures by XSSheep
 player_hash_skin_7, player_hash_skin_8, fire_basic_flame, fire_basic_flame_animated
+
+Textures derived from textures by Krupnov Pavel and 2016 TenPlus1 (MIT License)
+mobs_cheese, mobs_cheeseblock
+
+Textures by tacotexmex ()
+mobs_beehive, default_mineral_iron
+

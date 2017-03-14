@@ -1,3 +1,2 @@
-Additional textures
-player_hash_skin_7, player_hash_skin_8 made by XSSheep
-
+Textures by XSSheep
+player_hash_skin_7, player_hash_skin_8, fire_basic_flame, fire_basic_flame_animated

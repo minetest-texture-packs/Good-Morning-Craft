@@ -68,6 +68,7 @@ This, however, does NOT include the use of water or lava textures, fonts, golden
 Many thanks to everyone who contributed to this project
 
 [@tobyplowy](https://github.com/tobyplowy)
+[@tacotexmex](https://github.com/tacotexmex)
 
 ## Contact
 

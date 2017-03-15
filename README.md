@@ -1,3 +1,5 @@
+[![Chat on Gitter][gitter-image]][gitter-url]
+
 # Good Morning Craft Minetest
 > A texture pack for Minetest
 
@@ -83,3 +85,6 @@ You can contact the original author at any time at:
 **Facebook:** https://www.facebook.com/CarrotCakeStudios/
 
 **Messenger:** http://m.me/CarrotCakeStudios/
+
+[gitter-image]: https://badges.gitter.im/dolanmiu/good-morning-craft-minetest.svg
+[gitter-url]: https://gitter.im/good-morning-craft/Lobby

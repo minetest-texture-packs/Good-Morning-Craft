@@ -1,3 +1,5 @@
+[![Chat on Gitter][gitter-image]][gitter-url]
+
 # Good Morning Craft Minetest
 > A texture pack for Minetest
 
@@ -68,6 +70,7 @@ This, however, does NOT include the use of water or lava textures, fonts, golden
 Many thanks to everyone who contributed to this project
 
 [@tobyplowy](https://github.com/tobyplowy)
+[@tacotexmex](https://github.com/tacotexmex)
 
 ## Contact
 
@@ -82,3 +85,6 @@ You can contact the original author at any time at:
 **Facebook:** https://www.facebook.com/CarrotCakeStudios/
 
 **Messenger:** http://m.me/CarrotCakeStudios/
+
+[gitter-image]: https://badges.gitter.im/dolanmiu/good-morning-craft-minetest.svg
+[gitter-url]: https://gitter.im/good-morning-craft/Lobby

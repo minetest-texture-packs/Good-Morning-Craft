@@ -1,5 +1,4 @@
-[![Chat on Gitter][gitter-image]][gitter-url]
-
+[![Chat on Gitter][gitter-image]][gitter-url] ![minetest_game completion](https://minetest-checker.herokuapp.com/game/minetest-texturepacks/Good-Morning-Craft-Minetest.svg)
 # Good Morning Craft Minetest
 > A texture pack for Minetest
 

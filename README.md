@@ -35,18 +35,7 @@ For more information, [click here](https://forum.minetest.net/viewtopic.php?id=1
 
 ## Copyright, Ownership and Use of Good Morning Craft
 
-Good Morning Craft by Louis Durrant is licensed under a Creative Commons
-Attribution-NonCommercial-ShareAlike 2.0 UK: England & Wales License.
-
-http://creativecommons.org/licenses/by-nc-sa/2.0/uk/deed.en
-
-Feel free to use my texture pack for any non-commercial projects, this includes Adventure Maps,
-Minecraft game-play videos.
-
-You may use my texture pack as a basis for your texture, but the texture pack MUST be seeing consistent
-updates. You must also email me before doing so to link me to your work using the email address below.
-
-This, however, does NOT include the use of water or lava textures, fonts, golden amour or clouds textures.
+Good Morning Craft by Louis Durrant [was licensed WTFPL](_proof-of-license.png) but was converted to CC-BY-SA 4.0, which therefore applies to all additional content as well.
 
 ## How to contribute
 
